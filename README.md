@@ -1,8 +1,8 @@
-📈 Stock SQL + ML Analysis
+**📈 Stock SQL + ML Analysis**
 
 This project combines SQL queries and Machine Learning to analyze stock market data. Using historical price datasets, we explore trends, calculate risk/return metrics, cluster stocks, and simulate portfolio allocations with Monte Carlo simulation to identify the optimal portfolio.
 
-🚀 Project Overview
+**🚀 Project Overview**
 
 Queried raw stock CSVs using SQL within Python (pandasql) to explore average prices and filter stocks.
 
@@ -14,7 +14,7 @@ Simulated 5,000 portfolios with different weight combinations using Monte Carlo.
 
 Identified the optimal portfolio allocation based on the highest Sharpe Ratio (best risk-adjusted return).
 
-🧰 Tech Stack
+**🧰 Tech Stack**
 
 Language: Python 3.x
 
@@ -28,7 +28,7 @@ Simulation: Monte Carlo portfolio optimization
 
 Environment: Jupyter Notebook (Kaggle)
 
-📊 Why This Matters in Finance
+**📊 Why This Matters in Finance**
 
 Risk vs. Return Analysis: Investors need to balance returns with volatility. This project quantifies both.
 
@@ -38,18 +38,18 @@ Portfolio Optimization: Monte Carlo helps visualize thousands of possible alloca
 
 Hands-On SQL + ML: Demonstrates how SQL can be integrated with Python/ML for real-world financial analytics.
 
-📂 Files
+**📂 Files**
 
 stock_analysis_sql_ml.ipynb → Main notebook with all steps (SQL queries, ML, Monte Carlo).
 
-⚡ Quick Start
+**⚡ Quick Start**
 
 Clone this repo and open the notebook in Jupyter/Kaggle:
 
 git clone https://github.com/SRHGIT24/stock-sql-ml-analysis.git
 cd stock-sql-ml-analysis
 
-🔮 Example Output
+**🔮 Example Output**
 
 📌 Clusters: Stocks grouped by average return and volatility.
 
